@@ -1,0 +1,30 @@
+
+[2022-10-12T14:54:53.315] [INFO] default - 200 OK
+[2022-10-12T15:23:54.653] [INFO] default - 200 OK
+[2022-10-12T15:26:06.117] [INFO] default - 200 OK
+[2022-10-12T15:26:06.450] [INFO] default - 200 OK
+[2022-10-12T15:27:23.875] [INFO] default - 200 OK
+[2022-10-12T16:08:04.513] [INFO] default - 200 OK
+[2022-10-12T16:08:39.107] [WARN] default - 502 - Bad Gateway
+[2022-10-12T16:09:53.858] [INFO] default - 200 OK - Complete Data Authors!!
+[2022-10-12T16:10:55.221] [INFO] default - 200 OK - Get Single Data Author!!
+[2022-10-12T16:10:55.222] [INFO] default - Data of id: 1
+[2022-10-12T16:11:55.891] [INFO] default - 200 OK - Get Single Data Author!!
+[2022-10-12T16:11:55.891] [INFO] default - Data of id: 2
+[2022-10-12T16:21:03.109] [INFO] default - HTTP request methods - GET
+[2022-10-12T16:21:03.190] [INFO] default - 200 OK - Complete Data Authors!!
+[2022-10-12T16:29:44.149] [INFO] default - HTTP request methods - GET
+[2022-10-12T16:29:44.152] [INFO] default - 200 OK - Complete Data Authors!!
+[2022-10-12T16:29:51.079] [INFO] default - HTTP request methods - GET
+[2022-10-12T16:29:51.081] [INFO] default - 200 OK - Complete Data Authors!!
+[2022-10-13T09:02:45.727] [INFO] default - HTTP request methods - GET
+[2022-10-13T09:02:45.745] [INFO] default - 200 OK - Complete Data Authors!!
+[2022-10-13T09:37:29.920] [INFO] default - HTTP request methods - GET
+[2022-10-13T09:37:29.928] [INFO] default - 200 OK - Get Single Data Author!!
+[2022-10-13T09:37:29.930] [INFO] default - Data of id: 2
+[2022-10-13T09:37:51.477] [INFO] default - HTTP request methods - POST
+[2022-10-13T09:37:51.478] [INFO] default - 200 OK - Author add!!
+[2022-10-13T09:38:26.596] [INFO] default - HTTP request methods - PUT
+[2022-10-13T09:38:26.599] [INFO] default - 200 OK - Author updated!!
+[2022-10-13T09:38:41.976] [INFO] default - HTTP request methods - DELETE
+[2022-10-13T09:38:41.979] [INFO] default - 200 OK - Author removed!!
